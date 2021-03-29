@@ -27,3 +27,5 @@ src/App.test.js
 src/index.css
 src/reportWebVitals.js
 src/setupTests.js
+
+.vercel
